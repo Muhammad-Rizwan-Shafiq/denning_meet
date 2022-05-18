@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565404524101",
+    "project_id": "denningmeeet",
+    "storage_bucket": "denningmeeet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565404524101:android:c69eb41f5d52bf2b4c4d2c",
+        "android_client_info": {
+          "package_name": "com.example.denning_meeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565404524101-aiu3inp7et13tedp1j2hb5ssrnapmu49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUOTbPeDlZAUDE8-BkV7ZST87yQmqY8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565404524101-aiu3inp7et13tedp1j2hb5ssrnapmu49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
